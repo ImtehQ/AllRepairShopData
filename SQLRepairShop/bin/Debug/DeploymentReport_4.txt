@@ -1,0 +1,21 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[ComputerParts] (Table)
+       [dbo].[Employees] (Table)
+       [dbo].[ImageLinks] (Table)
+       [dbo].[Images] (Table)
+       [dbo].[Orders] (Table)
+       [dbo].[PartLinks] (Table)
+       [dbo].[Users] (Table)
+
+** Supporting actions

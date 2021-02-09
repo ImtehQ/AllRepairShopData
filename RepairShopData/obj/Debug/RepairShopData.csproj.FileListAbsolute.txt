@@ -1,0 +1,9 @@
+C:\Users\Perry\source\repos\RepairShopData\bin\Debug\RepairShopData.dll
+C:\Users\Perry\source\repos\RepairShopData\bin\Debug\RepairShopData.pdb
+C:\Users\Perry\source\repos\RepairShopData\bin\Debug\Dapper.dll
+C:\Users\Perry\source\repos\RepairShopData\bin\Debug\Dapper.xml
+C:\Users\Perry\source\repos\RepairShopData\obj\Debug\RepairShopData.csprojAssemblyReference.cache
+C:\Users\Perry\source\repos\RepairShopData\obj\Debug\RepairShopData.csproj.CoreCompileInputs.cache
+C:\Users\Perry\source\repos\RepairShopData\obj\Debug\RepairShopData.csproj.CopyComplete
+C:\Users\Perry\source\repos\RepairShopData\obj\Debug\RepairShopData.dll
+C:\Users\Perry\source\repos\RepairShopData\obj\Debug\RepairShopData.pdb

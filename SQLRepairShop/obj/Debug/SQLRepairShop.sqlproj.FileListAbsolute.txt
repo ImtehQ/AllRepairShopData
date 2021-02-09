@@ -1,0 +1,9 @@
+C:\Users\Perry\source\repos\SQLRepairShop\bin\Debug\SQLRepairShop.dacpac
+C:\Users\Perry\source\repos\SQLRepairShop\bin\Debug\SQLRepairShop.dll
+C:\Users\Perry\source\repos\SQLRepairShop\bin\Debug\SQLRepairShop.pdb
+C:\Users\Perry\source\repos\SQLRepairShop\obj\Debug\Model.xml
+C:\Users\Perry\source\repos\SQLRepairShop\obj\Debug\refactor.xml
+C:\Users\Perry\source\repos\SQLRepairShop\obj\Debug\postdeploy.sql
+C:\Users\Perry\source\repos\SQLRepairShop\obj\Debug\predeploy.sql
+C:\Users\Perry\source\repos\SQLRepairShop\obj\Debug\SQLRepairShop.dll
+C:\Users\Perry\source\repos\SQLRepairShop\obj\Debug\SQLRepairShop.pdb
